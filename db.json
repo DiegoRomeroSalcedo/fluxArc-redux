@@ -1,0 +1,29 @@
+{
+  "notes": [
+    {
+      "content": "the app state is in redux store",
+      "important": true,
+      "id": "1"
+    },
+    {
+      "content": "state changes are made with actions",
+      "important": false,
+      "id": "2"
+    },
+    {
+      "id": "939f",
+      "content": "Hola, como están yo estoy muy bien",
+      "important": false
+    },
+    {
+      "id": "09d8",
+      "content": "Ayer vine de lavar la ropa en la lavandería",
+      "important": false
+    },
+    {
+      "id": "2ad2",
+      "content": "Hola",
+      "important": false
+    }
+  ]
+}
